@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hell World!" << endl;
+    cout << "Heaven World!" << endl;
     return 0;
 }
